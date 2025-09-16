@@ -91,7 +91,7 @@ processor/
 │   ├── csv/reader.go        # CSV reading
 │   ├── models/lead.go       # Data models
 │   └── processor/processor.go # Business logic
-├── testdata/                # Sample CSV files
+├── testdata/                # Test CSV files
 └── main.go                  # Entry point
 ```
 
