@@ -1,0 +1,12 @@
+.DS_Store
+.idea/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+lead-processor
+node_modules/
+*.log
